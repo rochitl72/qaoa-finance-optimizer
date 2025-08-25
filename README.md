@@ -67,7 +67,7 @@ cd quantum_portfolio_optimizer
 2️⃣ Create Virtual Environment (Optional)
 python3 -m venv .venv
 source .venv/bin/activate  # macOS/Linux
-# OR
+
 .venv\Scripts\activate     # Windows
 
 3️⃣ Install Dependencies
