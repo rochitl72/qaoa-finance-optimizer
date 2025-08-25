@@ -4,6 +4,7 @@
 >
 ### 🖼️ Dashboard Overview
 <img src="assets/streamlit_ui.png" alt="Streamlit Dashboard" width="700"/>
+<img src="assets/image.png" alt="Streamlit Dashboard" width="700"/>
 
 Quantum Portfolio Optimizer – Qiskit, QAOA, Streamlit, Python
 Developed a quantum-enhanced portfolio optimization dashboard using QAOA (Quantum Approximate Optimization Algorithm) to maximize expected returns and minimize portfolio risk via Sharpe ratio. Formulated the optimization as a QUBO problem and implemented it using Qiskit’s MinimumEigenOptimizer with the Aer simulator backend. Built a responsive Streamlit interface with dynamic controls for budget and risk penalty, and integrated real-time visualizations of asset selection, allocation breakdown, and risk-return metrics. Designed for quantum-aware decision support in finance with hybrid classical-quantum architecture.
