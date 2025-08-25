@@ -57,14 +57,6 @@ Where:
 
 ---
 
-## 📸 Screenshots
-
-| Streamlit Dashboard | QAOA Result | Allocation Visualization |
-|---------------------|-------------|---------------------------|
-| ![](assets/dashboard.jpg) | ![](assets/qaoa.jpg) | ![](assets/visualization.jpg) |
-
----
-
 ## ⚙️ Installation & Running
 
 ### 1️⃣ Clone this repo
